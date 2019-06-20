@@ -9,7 +9,7 @@
     "deploy": "npm run build && firebase deploy"
   },
   "keywords": [],
-  "author": "Heath Moore",
+  "author": "Greg Stephen",
   "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.4.3",
